@@ -28,7 +28,7 @@ alt="Click here to see Installation Video!" width="500" height="250" border="10"
 
 ## **Bugs**
 
-If there's a problem with **running** the bot after following the instructions, please report a bug here https://authsecure.shop/app/?page=forms
+If there's a problem with **running** the bot after following the instructions, please report a bug here https://authsecure.shop/app/
 
 Do **not** submit a bug report if you're having issues installing NPM packages. That has nothing to do with AuthSecure and you'll need to Google/YouTube your instillation error(s)
 
