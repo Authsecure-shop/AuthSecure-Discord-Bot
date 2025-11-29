@@ -2,7 +2,7 @@
 Source Code of Discord bot for https://AuthSecure.cc, Also if this bot doesn't work for you use https://github.com/AuthSecure/AuthSecure-Discord-Bot/tree/53a395e024834edcba56fe651ac031f4762e903f it is old bot.
 
 ## Installation
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=tngShw2Vmm0
+<a href="soon
 " target="_blank"><img src="https://i.imgur.com/bdjleDy.png" 
 alt="Click here to see Installation Video!" width="500" height="250" border="10" /></a>
 
@@ -52,7 +52,7 @@ to applicable law.
 Thank you for your compliance, we work hard on the development of AuthSecure and do not appreciate our copyright being infringed.
 
 ## Our Discord Bot is hosted on:
-https://www.oracle.com/cloud/free/ free forever, watch video for tutorial https://www.youtube.com/watch?v=90JbCrB3m3I
+https://www.oracle.com/cloud/free/ free forever, watch video for tutorial comming soon
 
 **What is AuthSecure?**
 
