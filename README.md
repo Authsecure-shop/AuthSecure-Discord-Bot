@@ -3,7 +3,7 @@ Source Code of Discord bot for https://AuthSecure.cc, Also if this bot doesn't w
 
 ## Installation
 <a href="soon
-" target="_blank"><img src="https://i.imgur.com/bdjleDy.png" 
+" target="_blank"><img src="https://i.ibb.co/gbwDNQ8k/bdjle-Dy-Imgur.png" 
 alt="Click here to see Installation Video!" width="500" height="250" border="10" /></a>
 
 
