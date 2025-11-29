@@ -13,7 +13,7 @@ alt="Click here to see Installation Video!" width="500" height="250" border="10"
 3. Open the folder in code editor of your choice.
 4. Edit .env.example > Rename file to: `.env`, fill in your config <production = Global Commands, development = Guild Only Commands>
 5. Open CMD on that folder and run npm install
-6. To start bot use `node .` or `node index.js`
+6. To start bot use `node .` or `node bot.js`
 ```
 ## Discord Developer Portal
 ```
